@@ -1,8 +1,5 @@
 
 
-
-/* html5reset.css - 01/11/2011 */
-
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
@@ -236,45 +233,3 @@ input, select {
 
 
 
-/*  GRID OF FIVE   ============================================================================= */
-
-.span_5_of_5 {
-	width: 100%; 
-}
-
-.span_4_of_5 {
-	width: 78.1%; 
-}
-
-.span_3_of_5 {
-	width: 57.6%; 
-}
-
-.span_2_of_5 {
-	width: 36.2%; 
-}
-
-.span_1_of_5 {
-	width: 17.8%; 
-}
-
-
-/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
-
-@media only screen and (max-width: 480px) {
-	.span_5_of_5 {
-		width: 100%; 
-	}
-	.span_4_of_5 {
-		width: 100%; 
-	}
-	.span_3_of_5 {
-		width: 100%; 
-	}
-	.span_2_of_5 {
-		width: 100%; 
-	}
-	.span_1_of_5 {
-		width: 100%; 
-	}
-}
